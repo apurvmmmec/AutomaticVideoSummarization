@@ -1,4 +1,4 @@
-# timeLapse
+# Automatic Video Summarization using TimeLapse
 This code demonstrates the concept of building a timeLapse video
 The source video and image frames used in this project can be accessed from
 https://drive.google.com/open?id=0B4kkQ0rQAD5LTzlJUFVCcnQ3SlU
